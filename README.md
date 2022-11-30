@@ -1,3 +1,5 @@
+# Useless plugin, basegame already does this.
+
 # SL UPnP Tool
 This is a UPnP (Universal Plug n' Play) tool for EXILED.
 
